@@ -1,0 +1,25 @@
+{
+    "name": "alltobill/alltobill",
+    "type": "library",
+    "description": "Alltobill PHPLib",
+    "keywords": [
+        "payment",
+        "gateway"
+    ],
+    "license": "MIT",
+    "homepage": "https://www.alltobill.com",
+    "authors": [
+        {
+            "name": "Alltobill AG",
+            "homepage": "https://www.alltobill.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Alltobill": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
